@@ -24,7 +24,7 @@ curl -L https://install.pivpn.io/ | bash
 *******************************************************************
 
 """Fritz box!!!"""
-sudo echo "192.168.178.1 fritz.box" | sudo tee --append /etc/hosts
+>>sudo echo "192.168.178.1 fritz.box" | sudo tee --append /etc/hosts
 
 *******************************************************************
 >>SSH installation für Putty: 
