@@ -2,7 +2,7 @@
 
 *****************************************************************
 """NOIP INSTALLIEREN!!!"""
-sudo apt-get install build-essential
+>>sudo apt-get install build-essential
 
 cd /usr/local/src/
 sudo wget http://www.noip.com/client/linux/noip-duc-linux.tar.gz
@@ -12,15 +12,15 @@ sudo make install
 
 *******************************************************************
 noip2 starten nach jedem Reboot
-sudo /usr/local/bin/noip2
+>>sudo /usr/local/bin/noip2
 *******************************************************************
 
 """PIHOLE!!!"""
-curl -sSL https://install.pi-hole.net/ | bash
+>>curl -sSL https://install.pi-hole.net/ | bash
 *******************************************************************
 
 """VPN!!!"""
-curl -L https://install.pivpn.io/ | bash
+>>curl -L https://install.pivpn.io/ | bash
 *******************************************************************
 
 """Fritz box!!!"""
