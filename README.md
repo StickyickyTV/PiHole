@@ -4,11 +4,11 @@
 """NOIP INSTALLIEREN!!!"""
 >>sudo apt-get install build-essential
 
-cd /usr/local/src/
-sudo wget http://www.noip.com/client/linux/noip-duc-linux.tar.gz
-sudo tar xf noip-duc-linux.tar.gz
-cd noip-2.1.9-1/
-sudo make install
+>>cd /usr/local/src/
+>>sudo wget http://www.noip.com/client/linux/noip-duc-linux.tar.gz
+>>sudo tar xf noip-duc-linux.tar.gz
+>>cd noip-2.1.9-1/
+>>sudo make install
 
 *******************************************************************
 noip2 starten nach jedem Reboot
@@ -42,7 +42,7 @@ Ordner im Verzeichnis löschen:
 
 *******************************************************************
 """PIHOLE COMANNDS"""
->>Pihole -h
+>>pihole -h
 
 *******************************************************************
 """PIVPN COMMANDS"""
