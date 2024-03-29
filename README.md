@@ -69,3 +69,5 @@ Teamspeak server installieren (MIT automatischem Neustart):
 Teamspeak server Logs einsehen:
 >>cat /opt/teamspeak/logs/*
 *******************************************************************
+
+Leck mich im arsch
