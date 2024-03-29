@@ -31,11 +31,14 @@ noip2 starten nach jedem Reboot
 sudo apt-get install ssh
 *******************************************************************
 
->>Bestehendem Ordner Rechte geben: sudo chmod -v 777 [ordername]
+Bestehendem Ordner Rechte geben:
+>>sudo chmod -v 777 [ordername]
 
->>Ordner erstellen mit Rechte: sudo mkdir -m 777 [ordername]
+Ordner erstellen mit Rechte: 
+>>sudo mkdir -m 777 [ordername]
 
->>Ordner im Verzeichnis löschen: sudo rm -r [Ordner name]
+Ordner im Verzeichnis löschen: 
+>>sudo rm -r [Ordner name]
 
 *******************************************************************
 """PIHOLE COMANNDS"""
